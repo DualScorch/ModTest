@@ -1,0 +1,21 @@
+[
+{
+  "modid": "modtest",
+  "name": "Modtest",
+  "description": "Scorch first mod is a test mod",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Scorch"
+  ],
+  "credits": "Pahimar for teaching me through YouTube <3",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
