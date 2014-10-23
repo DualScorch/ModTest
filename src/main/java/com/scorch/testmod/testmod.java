@@ -1,6 +1,6 @@
 package com.scorch.testmod;
 
-import com.scorch.testmod.configuration.ConfigurationHandler;
+import com.scorch.testmod.handler.ConfigurationHandler;
 import com.scorch.testmod.proxy.IProxy;
 import com.scorch.testmod.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -9,7 +9,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid= Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.MOD_VERSION)
+@Mod(modid= Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.MOD_VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class testmod
 
 {
