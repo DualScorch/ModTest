@@ -1,6 +1,7 @@
 package com.scorch.testmod;
 
 import com.scorch.testmod.handler.ConfigurationHandler;
+import com.scorch.testmod.init.ModItems;
 import com.scorch.testmod.proxy.IProxy;
 import com.scorch.testmod.reference.Reference;
 import com.scorch.testmod.utility.LogHelper;
@@ -28,6 +29,8 @@ public class testmod
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("Pre Init Complete");
+
+        ModItems.init();
     }
 
     @Mod.EventHandler
