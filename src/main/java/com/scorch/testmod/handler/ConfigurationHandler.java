@@ -34,7 +34,7 @@ public class ConfigurationHandler
     }
 
 
-    public static void loadConfiguration() {
+    private static void loadConfiguration() {
 
         testValue = configuration.getBoolean("configValue", Configuration.CATEGORY_GENERAL, false, "Example");
         isJakobCool = configuration.getBoolean("Is Jakob The Best?", Configuration.CATEGORY_GENERAL, true, "This is a very easy question, is Jakob the best of them all");

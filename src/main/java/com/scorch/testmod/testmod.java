@@ -3,6 +3,8 @@ package com.scorch.testmod;
 import com.scorch.testmod.handler.ConfigurationHandler;
 import com.scorch.testmod.proxy.IProxy;
 import com.scorch.testmod.reference.Reference;
+import com.scorch.testmod.utility.LogHelper;
+import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -24,17 +26,19 @@ public class testmod
     public void preInit(FMLPreInitializationEvent event)
     {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+        LogHelper.info("Pre Init Complete");
     }
 
     @Mod.EventHandler
     public void Init(FMLInitializationEvent event)
     {
-
+        LogHelper.info("Init Complete");
     }
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
-
+        LogHelper.info("Post Init Complete");
     }
 
 }
