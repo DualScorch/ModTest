@@ -1,6 +1,7 @@
 package com.scorch.testmod;
 
 import com.scorch.testmod.handler.ConfigurationHandler;
+import com.scorch.testmod.init.ModBlocks;
 import com.scorch.testmod.init.ModItems;
 import com.scorch.testmod.proxy.IProxy;
 import com.scorch.testmod.reference.Reference;
@@ -31,6 +32,8 @@ public class testmod
         LogHelper.info("Pre Init Complete");
 
         ModItems.init();
+        ModBlocks.init();
+
     }
 
     @Mod.EventHandler

@@ -7,5 +7,6 @@ public class ItemLeaf extends ItemTestMod
     {
         super();
         this.setUnlocalizedName("Leaf");
+        this.maxStackSize=16;
     }
 }
