@@ -1,43 +1,29 @@
-[22:25:34] [main/INFO]: Setting user: Player156
-[22:25:35] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:25:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
-[22:25:39] [Sound Library Loader/INFO]: Sound engine started
-[22:25:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:25:40] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:25:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
-[22:25:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:25:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:25:42] [Sound Library Loader/INFO]: Sound engine started
-[22:25:53] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:25:53] [Server thread/INFO]: Generating keypair
-[22:25:53] [Server thread/INFO]: Preparing start region for level 0
-[22:25:54] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:25:54] [Server thread/INFO]: Player156[local:E:7caa85e9] logged in with entity id 160 at (577.7226522974476, 4.0, -4.699999988079071)
-[22:25:54] [Server thread/INFO]: Player156 joined the game
-[22:25:54] [Server thread/INFO]: Saving and pausing game...
-[22:25:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:25:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:25:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:25:55] [Server thread/INFO]: Saving and pausing game...
-[22:25:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:25:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:25:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:26:10] [Server thread/INFO]: Player156 has just earned the achievement [Taking Inventory]
-[22:26:10] [Client thread/INFO]: [CHAT] Player156 has just earned the achievement [Taking Inventory]
-[22:27:02] [Server thread/INFO]: [Player156: Given Speed (ID 1) * 100 to Player156 for 20 seconds]
-[22:27:02] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to Player156 for 20 seconds
-[22:27:15] [Server thread/INFO]: [Player156: Given Speed (ID 1) * 100 to Player156 for 20 seconds]
-[22:27:15] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to Player156 for 20 seconds
-[22:27:38] [Server thread/INFO]: [Player156: Given Speed (ID 1) * 100 to Player156 for 20 seconds]
-[22:27:38] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to Player156 for 20 seconds
-[22:27:52] [Server thread/INFO]: Saving and pausing game...
-[22:27:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:27:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:27:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:27:52] [Server thread/INFO]: Stopping server
-[22:27:52] [Server thread/INFO]: Saving players
-[22:27:53] [Server thread/INFO]: Saving worlds
-[22:27:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:27:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:27:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:27:53] [Client thread/INFO]: Stopping!
+[00:47:36] [main/INFO]: Setting user: Player898
+[00:47:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:47:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
+[00:47:41] [Sound Library Loader/INFO]: Sound engine started
+[00:47:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:47:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:47:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
+[00:47:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[00:47:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:47:44] [Sound Library Loader/INFO]: Sound engine started
+[00:47:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[00:47:48] [Server thread/INFO]: Generating keypair
+[00:47:49] [Server thread/INFO]: Preparing start region for level 0
+[00:47:49] [Server thread/INFO]: Changing view distance to 12, from 10
+[00:47:50] [Server thread/INFO]: Player898[local:E:63d8fbb1] logged in with entity id 188 at (591.5469850416126, 4.0, 122.37197441465338)
+[00:47:50] [Server thread/INFO]: Player898 joined the game
+[00:47:53] [Server thread/INFO]: Player898 has just earned the achievement [Taking Inventory]
+[00:47:53] [Client thread/INFO]: [CHAT] Player898 has just earned the achievement [Taking Inventory]
+[00:48:03] [Server thread/INFO]: Saving and pausing game...
+[00:48:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:48:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:48:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:48:03] [Server thread/INFO]: Stopping server
+[00:48:03] [Server thread/INFO]: Saving players
+[00:48:03] [Server thread/INFO]: Saving worlds
+[00:48:03] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:48:03] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:48:03] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[00:48:30] [Client thread/INFO]: Stopping!

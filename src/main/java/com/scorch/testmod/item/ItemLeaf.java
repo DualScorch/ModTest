@@ -1,6 +1,8 @@
 package com.scorch.testmod.item;
 
 
+import com.scorch.testmod.creativetab.CreativeTabTestMod;
+
 public class ItemLeaf extends ItemTestMod
 {
     public ItemLeaf()
@@ -8,5 +10,6 @@ public class ItemLeaf extends ItemTestMod
         super();
         this.setUnlocalizedName("Leaf");
         this.maxStackSize=16;
+        this.setCreativeTab(CreativeTabTestMod.TESTMOD_TAB);
     }
 }
