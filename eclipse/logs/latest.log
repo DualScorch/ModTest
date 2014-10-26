@@ -1,11 +1,17 @@
-[20:28:37] [main/INFO]: Logging in with username & password
-[20:28:41] [main/INFO]: Setting user: JakeT02
-[20:28:43] [Client thread/INFO]: LWJGL Version: 2.9.1
-[20:28:46] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
-[20:28:47] [Sound Library Loader/INFO]: Sound engine started
-[20:28:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:28:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:28:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
-[20:28:48] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[20:28:48] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[20:28:49] [Sound Library Loader/INFO]: Sound engine started
+[20:46:21] [main/INFO]: Logging in with username & password
+[20:46:25] [main/INFO]: Setting user: JakeT02
+[20:46:26] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:46:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
+[20:46:30] [Sound Library Loader/INFO]: Sound engine started
+[20:46:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:46:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:46:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Modtest
+[20:46:31] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:46:31] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:46:32] [Sound Library Loader/INFO]: Sound engine started
+[20:46:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:46:36] [Server thread/INFO]: Generating keypair
+[20:46:36] [Server thread/INFO]: Preparing start region for level 0
+[20:46:37] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:46:37] [Server thread/INFO]: JakeT02[local:E:59bcfb55] logged in with entity id 168 at (629.5360306869087, 4.0, 82.70939939104163)
+[20:46:37] [Server thread/INFO]: JakeT02 joined the game
