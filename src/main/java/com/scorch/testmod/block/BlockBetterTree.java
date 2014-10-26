@@ -14,6 +14,6 @@ public class BlockBetterTree extends BlockModTest
         this.blockHardness=5F;
         this.blockResistance=10F;
         this.setStepSound(soundTypeWood);
-        this.setCreativeTab(CreativeTabTestMod.TESTMOD_TAB);
+
     }
 }

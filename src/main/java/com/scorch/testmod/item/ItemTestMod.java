@@ -1,5 +1,6 @@
 package com.scorch.testmod.item;
 
+import com.scorch.testmod.creativetab.CreativeTabTestMod;
 import com.scorch.testmod.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,7 +13,6 @@ public class  ItemTestMod extends Item
     public ItemTestMod()
     {
         super();
-
     }
 
     @Override

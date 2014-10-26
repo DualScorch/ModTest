@@ -1,5 +1,6 @@
 package com.scorch.testmod.block;
 
+import com.scorch.testmod.creativetab.CreativeTabTestMod;
 import com.scorch.testmod.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -16,6 +17,7 @@ public class BlockModTest extends Block
     public BlockModTest(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabTestMod.TESTMOD_TAB);
     }
     public BlockModTest()
     {
