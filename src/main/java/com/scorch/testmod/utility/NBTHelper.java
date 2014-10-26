@@ -9,7 +9,7 @@ public class NBTHelper {
         {
             return itemStack != null && itemStack.stackTagCompound != null && itemStack.stackTagCompound.hasKey(keyName);
         }
-    
+
 
 
     public static void removeTag(ItemStack itemStack, String keyName)

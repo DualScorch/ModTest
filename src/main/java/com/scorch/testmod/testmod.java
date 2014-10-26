@@ -3,6 +3,7 @@ package com.scorch.testmod;
 import com.scorch.testmod.handler.ConfigurationHandler;
 import com.scorch.testmod.init.ModBlocks;
 import com.scorch.testmod.init.ModItems;
+import com.scorch.testmod.init.Recipes;
 import com.scorch.testmod.proxy.IProxy;
 import com.scorch.testmod.reference.Reference;
 import com.scorch.testmod.utility.LogHelper;
@@ -40,7 +41,9 @@ public class testmod
     public void Init(FMLInitializationEvent event)
     {
         LogHelper.info("Init Complete");
+        Recipes.init();
     }
+
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
     {
